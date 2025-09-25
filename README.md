@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Image example
-<img src="cat.png" width="1000"/>
+<img src="cat.png" width="300"/>
 
