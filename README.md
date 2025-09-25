@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <img src="cat.png" width="300"/>
 
 ### Image example from G Drive
-<img src="[cat.png](https://drive.google.com/file/d/120I_vPd0094cHUh0b6_qI7JW0j2zpiBa/view?usp=sharing)" width="300"/>
+<img src="https://drive.google.com/file/d/120I_vPd0094cHUh0b6_qI7JW0j2zpiBa/view?usp=sharing" width="300"/>
